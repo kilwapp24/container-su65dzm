@@ -1,0 +1,12 @@
+{
+  "plugins": [
+    "git-tag",
+    "all-contributors",
+    "first-time-contributor",
+    "released"
+  ],
+  "owner": "kilwapp24",
+  "repo": "container-su65dzm",
+  "name": "kilwapp24",
+  "email": "kilwapp24@gmail.com",
+}
